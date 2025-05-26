@@ -1,6 +1,6 @@
 Sure! Here's the full README content you can copy and paste directly:
 
-# H1 MineSweeper-QML
+# MineSweeper-QML
 
 A simple implementation of the classic MineSweeper game using QML and JavaScript.
 
