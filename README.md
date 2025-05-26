@@ -31,8 +31,8 @@ This project is a MineSweeper game built with Qt Quick (QML) for the UI and Java
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/masoud-babaei-dayou/mineSweeper-QML.git```
+`bash
+git clone https://github.com/masoud-babaei-dayou/mineSweeper-QML.git`
 
 2. Open the project in Qt Creator.
 3. Build and run the project.
